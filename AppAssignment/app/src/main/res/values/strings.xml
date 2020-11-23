@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Checker</string>
+    <string name="tab_text_1">Weather</string>
+    <string name="tab_text_2">Saved</string>
+</resources>
